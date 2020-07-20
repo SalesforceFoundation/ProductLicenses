@@ -1,0 +1,68 @@
+# Grants Management License
+
+© 2020, salesforce.com, Inc. All rights reserved.
+Subject to the terms and conditions of this License, salesforce.com, Inc. or one of its Affiliates (“SFDC” or “Licensor”) grants you (“Licensee”) certain limited rights to the use of Grants Management (“Work”). For purposes of this License, said Work shall be deemed to include the original work of authorship, whether in Source or Object forms (as defined herein), and be covered by such copyright notices as may be identified herein.
+
+## 1. Definitions
+
+“Affiliate” shall mean any entity that directly or indirectly controls, is controlled by, or is under common control with the subject entity. “Control,” for purposes of this definition, means direct or indirect ownership or control of more than 50% of the voting interests of the subject entity.  Salesforce.org LLC is an Affiliate of salesforce.com, Inc.
+
+"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications constitute, as a whole, the expression of an original work of authorship. For the purposes of this License, works that remain separable from, or merely link (or bind by name) to the interfaces of the Work and Derivative Works thereof shall not themselves be deemed Derivative Works.
+
+"License" shall mean the terms and conditions herein provided, and including the accompanying appendix. "Source" form shall mean the software source code, documentation source, and configuration files. "Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including compiled object code, generated documentation, and conversions to other media types. 
+
+“Grantmaker Content,” shall mean information, text, screenshot, image, graphic, artwork, templates or video that is made available by Licensee through Grants Management.  
+
+## 2. License grant
+
+Subject to the terms and conditions of this Agreement, the Licensor grants to the Licensee a non-exclusive, non-transferable, and non-sublicensable limited right to use the Work. Except as and only to the extent permitted by applicable law, the Licensee may not copy, decompile, reverse engineer, disassemble, attempt to derive the source code of, decrypt, modify, or create any Derivative Works of the Work, any updates, or any part thereof. Any attempt to do so shall constitute a violation of this License and the Licensor’s rights.
+
+## 3. Ownership
+
+Licensor retains sole and exclusive ownership of, and holds all rights, titles, and interests in, to, under, and relating to the Work. If the Licensee acquires any rights in the Work by operation of law or otherwise, the Licensee hereby irrevocably assigns such rights and ownership to Licensor without further action by either party. The Licensee agrees not to dispute or challenge or assist any person or entity in disputing or challenging the Licensor’s rights in and to the Work.
+
+## 4. License notices
+
+The Licensee shall ensure that any use or redistribution of the Work will include the notices described in the License Appendix.
+
+## 5. Grantmaker Content 
+
+Licensor hereby grants to Licensee, during the term of this Agreement and solely in connection with Licensee’s authorized use of the Work in accordance with this License, a worldwide, non-exclusive, non-sublicensable, non-transferrable, revocable, limited license to create and provide Grantmaker Content within the Work for grantmaking purposes.
+
+Access to and use of the Grantmaker Content shall be limited to Licensor, Licensee and grantseekers. Licensee shall not use any Grantmaker Content to develop a competitive product or service or infringe any third-party rights. 
+
+## 6. Third-party rights
+
+Notwithstanding any other provision of this License to the contrary, nothing in this License will be deemed to be a grant by the Licensor of a license, sublicense, or other grant of a right to the Licensee to use any third-party rights or any rights under any third-party license that cannot be licensed, sublicensed, or granted without the consent, approval, or agreement or another party, unless such consent, approval, or agreement is first obtained by the Licensee.
+
+## 7. Reservation of rights
+
+This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work. The Licensor reserves all rights not expressly granted to Licensee under this License, including, but not limited to all intellectual property and proprietary rights. No use by the Licensor of the Work in any medium or manner will be deemed to interfere with the limited permissions made to the Licensee by the Licensor herein.
+
+The names of the Licensor may not be used by the Licensee or another third party to endorse or promote products derived from this Work without specific prior written permission.
+
+## 8. Disclaimer of representations, warranties, and liabilities
+THIS WORK AND GRANTMAKER CONTENT ARE PROVIDED BY THE LICENSOR "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THE WORK OR GRANTMAKER CONTENT, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+
+## 9. Termination
+
+Licensor reserves the right to terminate this License at any time, with or without cause.
+Upon termination of this License for any reason, all rights licensed under this License will revert immediately to the Licensor and the Licensee shall cease all use of the Work, and erase all digital copies of the Work in its control and possession, or, at Licensor’s request, return or destroy any tangible copies of the Work.
+
+## 10. Interpretation
+
+For the purposes of this License:
+
+a. The words “include,” “includes,” and “including” are deemed to be followed by the words “without limitation,”; b. The word “or” is not exclusive; and c. The words “herein,” “hereof,” “hereby,” “hereto,” and “hereunder,” refer to this License as a whole.
+
+This License is intended to be construed without regard to any presumption or rule requiring construction or interpretation against the party drafting an instrument or causing any instrument to be drafted.
+
+## 11. Amendment or modification
+
+The Licensor may amend or modify the terms of this license at any time, with effect upon modification and replacement of the preceding License version. Licensee’s continued use or retention of the Work after such modification or replacement will be deemed consent to said changes.
+
+## 12. Governing law and venue
+
+This License shall be governed exclusively by, and construed exclusively in accordance with, the laws of the United States and the State of California, without regard to its conflict of laws provisions. The state and federal courts located in San Francisco, California shall have exclusive jurisdiction to adjudicate any dispute arising out of or relating to this License. Each party hereby consents to the jurisdiction of such courts and waives any right it may otherwise have to challenge the appropriateness of such forums.
+
+
